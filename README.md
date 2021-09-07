@@ -2,4 +2,4 @@
 
 Simple implementation of a caesar cipher 
 
-#doesnt work on unicode characters
+doesnt work on unicode characters
